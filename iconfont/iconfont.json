@@ -1,0 +1,16 @@
+{
+  "id": "3290815",
+  "name": "message",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6204789",
+      "name": "icon-book",
+      "font_class": "icon-book",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    }
+  ]
+}
